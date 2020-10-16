@@ -10,15 +10,15 @@ apikey j1zHbAwDsYNo4sR9FpInRVzIX8698p9JxomI'
 'https://api.transport.nsw.gov.au/v1/live/cameras'
 
 The user will have two options:
-	1. To view data
-	2. To download data as a .csv file (The file will be downloaded to your C Drive)
+1. To view data
+2. To download data as a .csv file (The file will be downloaded to your C Drive)
 
 Setup information:
-	1. Download the zip file from Code -> Download ZIP
-	2. Extract 
-	3. Run Visual Studio as Administrator
-	3. Open the solution in Visual Studio
-	4. Build the solution (or Ctrl + Shift + B)
-	5. Run (or Ctrl + F5)
+1. Download the zip file from Code -> Download ZIP
+2. Extract 
+3. Run Visual Studio as Administrator
+3. Open the solution in Visual Studio
+4. Build the solution (or Ctrl + Shift + B)
+5. Run (or Ctrl + F5)
 	
 
